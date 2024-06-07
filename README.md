@@ -28,17 +28,23 @@ A brief description of what this project does and who it's for
   - [Stringlerde Casting](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/2-%20Stringler/4-casting.ipynb)
 
 - **Input**
-  - [Input Fonsiyonu Nedir?](#input-fonsiyonu-nedir)
+  - [Input Fonsiyonu Nedir?](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/3-%20Input/1-input.ipynb
+)
 
 - **Koda Yorum Ekleme**
-  - [Kod Bloğuna Nasıl Yorum Eklenir?](#kod-bloğuna-nasıl-yorum-eklenir)
+  - [Kod Bloğuna Nasıl Yorum Eklenir?](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/4-%20Koda%20Yorum%20Ekleme/1-koda-yorum-ekleme.ipynb
+)
 
 - **Koda Durumsallık Katmak**
-  - [Sayısal Verilerde Karşılaştırma](#sayısal-verilerde-karşılaştırma)
-  - [Stringlerde Karşılaştırma](#stringlerde-karşılaştırma)
-  - [Mantıksal Operatörler](#mantıksal-operatörler)
-  - [Short-circuit](#short-circuit)
-  - [Short-circuit Olmayan Mantıksal Operatörler](#short-circuit-olmayan-mantıksal-operatörler)
+  - [Sayısal Verilerde Karşılaştırma](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/5-%20Koda%20Durumsall%C4%B1k%20Katmak/1-say%C4%B1sal-verilerde-kars%C4%B1last%C4%B1rma.ipynb
+)
+  - [Stringlerde Karşılaştırma](
+https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/5-%20Koda%20Durumsall%C4%B1k%20Katmak/2-stringlerde-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma.ipynb)
+  - [Mantıksal Operatörler](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/5-%20Koda%20Durumsall%C4%B1k%20Katmak/3-mat%C4%B1ksal-operatorler.ipynb
+)
+  - [Short-circuit](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/5-%20Koda%20Durumsall%C4%B1k%20Katmak/4-short-circuit.ipynb
+)
+  - [Short-circuit Olmayan Mantıksal Operatörler](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/5-%20Koda%20Durumsall%C4%B1k%20Katmak/5-short-circuit-olmayan-mant%C4%B1ksal-operatorler.ipynb)
 
 - **Koşullar**
   - [Koşullu İfadeler (if-else-elif) Kullanımı](#koşullu-ifadeler-if-else-elif-kullanımı)

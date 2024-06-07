@@ -58,16 +58,17 @@ https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/ma
   - [Continue ve Break İfadeleri](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/7-D%C3%B6ng%C3%BCler/4-break-continue.ipynb)
 
 - **Non-Scalar Veri Tipleri**
-  - [Liste Nedir?](#liste-nedir)
-  - [Tuple Nedir?](#tuple-nedir)
-  - ['in' Anahtar Kelimesi](#in-anahtar-kelimesi)
-  - [Dictionary Nedir?](#dictionary-nedir)
-  - [Set Nedir?](#set-nedir)
-  - [Non-scalar Veri Tiplerinde For](#non-scalar-veri-tiplerinde-for)
-  - [Split-Join](#split-join)
-  - [List Comprehension](#list-comprehension)
-  - [Variable Unpacking](#variable-unpacking)
-  - [Enumerate-Zip](#enumerate-zip)
+  - [Liste Nedir?](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/1-%20Non-scalar%20Veri%20Tipleri/1-list.ipynb
+)
+  - [Tuple Nedir?](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/1-%20Non-scalar%20Veri%20Tipleri/2-tuple.ipynb)
+  - ['in' Anahtar Kelimesi](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/1-%20Non-scalar%20Veri%20Tipleri/3-in.ipynb)
+  - [Dictionary Nedir?](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/1-%20Non-scalar%20Veri%20Tipleri/4-dictionary.ipynb)
+  - [Set Nedir?](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/1-%20Non-scalar%20Veri%20Tipleri/5-set.ipynb)
+  - [Non-scalar Veri Tiplerinde For](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/1-%20Non-scalar%20Veri%20Tipleri/6-non-scalar-veri-tiplerinde-for.ipynb)
+  - [Split-Join](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/1-%20Non-scalar%20Veri%20Tipleri/7-split-ve-join.ipynb)
+  - [List Comprehension](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/1-%20Non-scalar%20Veri%20Tipleri/8-comprehensions.ipynb)
+  - [Variable Unpacking](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/1-%20Non-scalar%20Veri%20Tipleri/9-variable-unpacking.ipynb)
+  - [Enumerate-Zip](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/1-%20Non-scalar%20Veri%20Tipleri/10-enumerate-zip.ipynb)
 
 - **Fonksiyonlar**
   - [Fonksiyon Nedir?](#fonksiyon-nedir)

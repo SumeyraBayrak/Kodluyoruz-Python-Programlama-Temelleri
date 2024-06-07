@@ -20,10 +20,12 @@ A brief description of what this project does and who it's for
   - [Operatörler ve İfadeler](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/1-%20Giri%C5%9F/4-operatorler-ve-ifadeler.ipynb)
 
 - **String'ler**
-  - [String Nedir?](#string-nedir)
-  - [Stringler Üzerinde Operatörler](#stringler-üzerinde-operatörler)
-  - [Stringlerde İndexleme](#stringlerde-İndexleme)
-  - [Stringlerde Casting](#stringlerde-casting)
+  - [String Nedir?](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/2-%20Stringler/1-stringler.ipynb
+)
+  - [Stringler Üzerinde Operatörler](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/2-%20Stringler/2-stingler-uzerinde-operatorler.ipynb
+)
+  - [Stringlerde İndexleme](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/2-%20Stringler/3-stringlerde-indexleme.ipynb)
+  - [Stringlerde Casting](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/2-%20Stringler/4-casting.ipynb)
 
 - **Input**
   - [Input Fonsiyonu Nedir?](#input-fonsiyonu-nedir)

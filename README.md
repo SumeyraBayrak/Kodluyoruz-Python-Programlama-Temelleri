@@ -14,7 +14,7 @@ A brief description of what this project does and who it's for
 ##  **İçerik**
 
 - **Giriş**
-  - [Programlama Nedir?](#programlama-nedir)
+  - [Programlama Nedir?](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/1-%20Giri%C5%9F/1-programlama-nedir.ipynb)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Temel Veri Tipleri](#temel-veri-tipleri)
   - [Değişken Atama](#değişken-atama)

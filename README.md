@@ -71,14 +71,15 @@ https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/ma
   - [Enumerate-Zip](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/1-%20Non-scalar%20Veri%20Tipleri/10-enumerate-zip.ipynb)
 
 - **Fonksiyonlar**
-  - [Fonksiyon Nedir?](#fonksiyon-nedir)
-  - [return Kullanımı](#return-kullanımı)
-  - [Comment-Fonksiyon](#comment-fonksiyon)
-  - [Birden Fazla Değer Döndürme/Input İçerme](#birden-fazla-değer-döndürmeinput-içerme)
-  - [Predefined Parameters](#predefined-parameters)
-  - [Update Input](#update-input)
-  - [First Class Function](#first-class-function)
-  - [For-Function](#for-function)
+  - [Fonksiyon Nedir?](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/2-%20Fonksiyonlar/1-fonksiyon-nedir.ipynb)
+  - [return Kullanımı](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/2-%20Fonksiyonlar/2-return.ipynb)
+  - [Comment-Fonksiyon](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/2-%20Fonksiyonlar/3-comment-fonksiyon.ipynb)
+  - [Birden Fazla Değer Döndürme/Input İçerme](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/2-%20Fonksiyonlar/4-birden-fazla-parametre-de%C4%9Fer.ipynb)
+  - [Predefined Parameters](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/2-%20Fonksiyonlar/5-default-parameters.ipynb)
+  - [Update Input](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/2-%20Fonksiyonlar/6-update-input.ipynb)
+  - [First Class Function](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/2-%20Fonksiyonlar/7-first-class-function.ipynb)
+  - [For-Function](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/2-%20Fonksiyonlar/8-for-function.ipynb
+)
 
 - **Underscore Placeholder**
   - [Underscore Placeholder Nedir?](#underscore-placeholder-nedir)

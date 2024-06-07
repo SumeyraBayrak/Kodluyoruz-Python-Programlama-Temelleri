@@ -17,7 +17,7 @@ A brief description of what this project does and who it's for
   - [Programlama Nedir?](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/1-%20Giri%C5%9F/1-programlama-nedir.ipynb)
   - [Temel Veri Tipleri](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/1-%20Giri%C5%9F/2-temel-veri-tipleri.ipynb)
   - [Değişken Atama](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/1-%20Giri%C5%9F/3-degi%C5%9Fken-atama.ipynb)
-  - [Operatörler ve İfadeler](#operatörler-ve-İfadeler)
+  - [Operatörler ve İfadeler](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/1-%20Giri%C5%9F/4-operatorler-ve-ifadeler.ipynb)
 
 - **String'ler**
   - [String Nedir?](#string-nedir)

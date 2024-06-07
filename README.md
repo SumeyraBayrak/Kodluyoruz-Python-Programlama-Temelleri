@@ -82,17 +82,17 @@ https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/ma
 )
 
 - **Underscore Placeholder**
-  - [Underscore Placeholder Nedir?](#underscore-placeholder-nedir)
+  - [Underscore Placeholder Nedir?](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/3-%20Underscore-Placeholder/1-underscore-placeholder.ipynb)
 
 - **F-string**
-  - [F-string Nedir?](#f-string-nedir)
+  - [F-string Nedir?](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/4-%20F-String/1-fstring.ipynb)
 
 - **Proje**
-  - [Soru 1](#soru-1)
-  - [Soru 2](#soru-2)
+  - [Soru 1](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/5-%20Proje/1-soru1.ipynb)
+  - [Soru 2](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2/5-%20Proje/2-soru2.ipynb)
 
 - **Python Uygulama**
-  - [Öklid Mesafesinin Hesaplanması](#soru-1)
+  - [Öklid Mesafesinin Hesaplanması](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-2-Uygulama/%201-oklid-mesafesinin-hesaplanmas%C4%B1.ipynb)
 
 ##   **Teşekkürler**
 

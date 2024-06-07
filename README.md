@@ -1,15 +1,13 @@
 #  **Kodluyoruz Python Programlama Temelleri**
 
+![Python Resmi](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/240px-Python-logo-notext.svg.png)
+
 Bu proje, Python programlama diline yeni başlayanlar için temel kavramları öğrenmek ve siber güvenlik alanına giriş yapmak isteyenler için özel olarak hazırlanmıştır. Siber güvenlik dünyasına adım atarken Python'un temel yeteneklerini kazanmak, sadece programlama becerilerinizi geliştirmekle kalmayacak, aynı zamanda siber güvenlikteki temel kavramları da anlamanıza yardımcı olacaktır.
 
 Bu depodaki kaynaklar, size Python programlama dilini öğrenirken aynı zamanda siber güvenlik alanında kritik bilgileri sunar. Proje, interaktif bir öğrenme deneyimi sunmak amacıyla Jupyter Notebook kullanılarak oluşturulmuştur. Bu sayede, hem kod yazma becerilerinizi geliştirecek hem de siber güvenlik dünyasına dair temel kavramları daha derinlemesine anlayabileceksiniz.
 
 Projenin amacına uygun bir şekilde tasarlandığına ve Python ile siber güvenlik konularını öğrenmek isteyenlere değerli bir kaynak sunduğuna inanıyorum. 🌟 IBM ile Kodluyoruz: CyberStart Programı, Python programlama dilini öğrenmek ve siber güvenlik alanında temel bilgiler edinmek isteyenleri etkileşimli bir deneyime davet ediyor. 🛡️ Bu yolculukta başarılar dilerim! 🚀
 
-
-![Python Resmi](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/240px-Python-logo-notext.svg.png)
-
-A brief description of what this project does and who it's for
 
 ##  **İçerik**
 

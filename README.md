@@ -47,14 +47,15 @@ https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/ma
   - [Short-circuit Olmayan Mantıksal Operatörler](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/5-%20Koda%20Durumsall%C4%B1k%20Katmak/5-short-circuit-olmayan-mant%C4%B1ksal-operatorler.ipynb)
 
 - **Koşullar**
-  - [Koşullu İfadeler (if-else-elif) Kullanımı](#koşullu-ifadeler-if-else-elif-kullanımı)
-  - [Ternary Conditionals](#ternary-conditionals)
+  - [Koşullu İfadeler (if-else-elif) Kullanımı](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/6-%20Ko%C5%9Fullar/1-if-else-elif.ipynb
+)
+  - [Ternary Conditionals](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/6-%20Ko%C5%9Fullar/2-ternary-conditional.ipynb)
 
 - **Döngüler**
-  - [Döngüler Kullanımı](#döngüler-kullanımı)
-  - [While Döngüsü](#while-döngüsü)
-  - [For Döngüsü](#for-döngüsü)
-  - [Continue ve Break İfadeleri](#continue-ve-break-ifadeleri)
+  - [Döngüler Kullanımı](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/7-D%C3%B6ng%C3%BCler/1-d%C3%B6ng%C3%BCler.ipynb)
+  - [While Döngüsü](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/7-D%C3%B6ng%C3%BCler/2-while.ipynb)
+  - [For Döngüsü](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/7-D%C3%B6ng%C3%BCler/3-for.ipynb)
+  - [Continue ve Break İfadeleri](https://github.com/SumeyraBayrak/Kodluyoruz-Python-Programlama-Temelleri/blob/main/Kodluyoruz-Python-Programlama-Temelleri/Python-1/7-D%C3%B6ng%C3%BCler/4-break-continue.ipynb)
 
 - **Non-Scalar Veri Tipleri**
   - [Liste Nedir?](#liste-nedir)

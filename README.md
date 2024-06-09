@@ -98,5 +98,3 @@ Bu projenin geliştirilmesinde aşağıdaki kaynaklar ve kişiler önemli katkı
 
 - [Python Eğitimleri](https://academy.patika.dev/tr/courses/python-temel/coderbyte-challenge) - Patika.dev'deki Python Temel eğitimi, projenin temelini oluşturan Python bilgilerini sağladı ve bu bilgileri pratik yapma fırsatı sundu. Eğitimdeki dersler ve videolar, projenin geliştirilmesine büyük ölçüde katkı sağladı.
 - Engin Deniz Alpman - Patika.dev'deki Python Temel eğitiminden aldığım bilgilerle projeyi geliştirirken, Engin Deniz Alpman'ın öğretim tarzı ve içeriği benim için rehber niteliğinde oldu. Kendisine teşekkür ederim.
-
-- **Python Eğitimleri**: Python temel konularını öğrenmek ve pratik yapmak için [Patika.dev Python Temel](https://academy.patika.dev/tr/courses/python-temel/coderbyte-challenge) eğitimlerine göz atabilirsiniz. Bu eğitimlerde dersler ve videolar bulunmaktadır.
